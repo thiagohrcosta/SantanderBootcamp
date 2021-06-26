@@ -3,6 +3,8 @@
 Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga horária de 119 horas, com o objetivo de desenvolver aplicações back-end de alto nível utilizando Java, criando aplicações ainda mais completas integradas ao banco de dados.  O bootcamp também explora o front-end com Angular, uma solução amplamente utilizada para criação de aplicações SPA por grandes empresas do mercado.
 
 ## Tecnologias estudadas
+
+**Tecnologias principais** <br>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 
 
