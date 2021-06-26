@@ -2,7 +2,7 @@ public class Main {
   public static void main(String[] args) {
 
     Gerente gerente = new Gerente();
-    gerente.setNome("Apolo Creed");
+    gerente.setNome("Apollo Creed");
     gerente.setSalario(5000.0);
 
     Supervisor supervisor = new Supervisor();
