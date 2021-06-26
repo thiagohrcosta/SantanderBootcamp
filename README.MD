@@ -31,3 +31,10 @@ Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga hor
   - [Polimorfismo](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/001-Desenvolvimento-B%C3%A1sico-Java/004%20-%20Polimorfismo)
   - [Exercício com polimorfismo](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/001-Desenvolvimento-B%C3%A1sico-Java/004%20-%20Polimorfismo%20Exercicio)
   - [This, Super e Equals](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/001-Desenvolvimento-B%C3%A1sico-Java/005%20-%20This%20Super)
+
+* S.O.L.I.D
+  * Single Responsibility Principle
+  * [Open Closed Principle](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/002%20-%20S.O.L.I.D.%20com%20Java/002%20-%20OpenClosedPrinciple)
+  * [Liskov Substitution Principle](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/002%20-%20S.O.L.I.D.%20com%20Java/003%20-%20LiskovSubstitutionPrinciple)
+  * [Interface Segregation Principle](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/002%20-%20S.O.L.I.D.%20com%20Java/004%20-%20InterfaceSegregationPrinciple)
+  * [Dependency Inversion Principle](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/002%20-%20S.O.L.I.D.%20com%20Java/005%20-%20DependencyInversionPrinciple)
