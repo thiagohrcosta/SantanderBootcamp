@@ -13,6 +13,9 @@ public class Main {
 
     System.out.println("O carro selecionado foi: " + carro.getMarca() + ", " + carro.getModelo() + ", de " + carro.getQuantidadeDePortas() + " portas");
     System.out.println("A motocicleta selecionada foi: " + moto.getMarca() + ", " + moto.getModelo() + ", de " + moto.getCilindradas());
+
+    carro.acelera();
+    moto.acelera();
   }
 
 
