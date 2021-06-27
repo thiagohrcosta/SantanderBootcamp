@@ -50,3 +50,9 @@ Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga hor
 
 * Tratamento de exceções
   * [Exceções](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/005%20-%20Tratamento%20de%20Exce%C3%A7%C3%B5es)
+
+**Desafios em Java**
+
+- [Desafio da feira](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/006%20-%20Desafios%20em%20Java/001%20-%20Desafio%20da%20Feirahttps://github.com/thiagohrcosta/SantanderBootcamp/tree/master/006%20-%20Desafios%20em%20Java/001%20-%20Desafio%20da%20Feira)
+-  [Desafio números ímpares](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/006%20-%20Desafios%20em%20Java/002%20-%20Desafio%20impar)
+- [Desafio números positivos](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/006%20-%20Desafios%20em%20Java/003%20-%20Desafio%20Positivos)
