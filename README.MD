@@ -47,3 +47,6 @@ Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga hor
 
 * Trabalhando com Arrays
   * [Arrays](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/004%20-%20Trabalhando%20com%20Arrays)
+
+* Tratamento de exceções
+  * [Exceções](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/005%20-%20Tratamento%20de%20Exce%C3%A7%C3%B5es)
