@@ -1,7 +1,7 @@
 
 ![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/c_scale,w_500/v1624734077/santanderbootcamp_ltgxcw.png)
 
-Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga horária de 119 horas, com o objetivo de desenvolver aplicações back-end de alto nível utilizando Java, se valendo de aplicações completas integradas ao banco de dados.  O bootcamp também explora o front-end com Angular, uma solução amplamente utilizada para criação de aplicações SPA por grandes empresas do mercado.
+Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga horária de 119 horas, com o objetivo de desenvolver aplicações back-end de alto nível utilizando Java, criando aplicações ainda mais completas integradas ao banco de dados.  O bootcamp também explora o front-end com Angular, uma solução amplamente utilizada para criação de aplicações SPA por grandes empresas do mercado.
 
 ## Tecnologias estudadas
 
@@ -38,3 +38,9 @@ Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga hor
   * [Liskov Substitution Principle](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/002%20-%20S.O.L.I.D.%20com%20Java/003%20-%20LiskovSubstitutionPrinciple)
   * [Interface Segregation Principle](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/002%20-%20S.O.L.I.D.%20com%20Java/004%20-%20InterfaceSegregationPrinciple)
   * [Dependency Inversion Principle](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/002%20-%20S.O.L.I.D.%20com%20Java/005%20-%20DependencyInversionPrinciple)
+
+* Trabalhando com Datas
+  * [Classe Date](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/003%20-%20Trabalhando%20com%20Datas/001%20-%20Classe%20Date)
+  * [Classe Calendar](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/003%20-%20Trabalhando%20com%20Datas/002%20-%20Classe%20Calendar)
+  * [Classe DateFormat](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/003%20-%20Trabalhando%20com%20Datas/003%20-%20Classe%20DateFormat)
+  * [Date no Java 8](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/003%20-%20Trabalhando%20com%20Datas/004%20-%20Date%20no%20Java%208)
