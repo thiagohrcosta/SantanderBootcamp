@@ -17,6 +17,6 @@ public class Main {
 
     LocalDateTime horaAgora = LocalDateTime.now();
     System.out.println(horaAgora);
-    
+
   }
 }
