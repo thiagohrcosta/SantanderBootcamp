@@ -44,3 +44,6 @@ Bootcamp promovido pelo **Santander** e **Digital Innovation One** com carga hor
   * [Classe Calendar](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/003%20-%20Trabalhando%20com%20Datas/002%20-%20Classe%20Calendar)
   * [Classe DateFormat](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/003%20-%20Trabalhando%20com%20Datas/003%20-%20Classe%20DateFormat)
   * [Date no Java 8](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/003%20-%20Trabalhando%20com%20Datas/004%20-%20Date%20no%20Java%208)
+
+* Trabalhando com Arrays
+  * [Arrays](https://github.com/thiagohrcosta/SantanderBootcamp/tree/master/004%20-%20Trabalhando%20com%20Arrays)
