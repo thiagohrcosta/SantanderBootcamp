@@ -19,7 +19,7 @@ export class CourseListComponent implements OnInit {
           price: 99.99,
           code: 'XPS-8996',
           duration: 120,
-          rating: 4,
+          rating: 4.5,
           releaseDate: 'December, 2, 2020'
         },
         {
