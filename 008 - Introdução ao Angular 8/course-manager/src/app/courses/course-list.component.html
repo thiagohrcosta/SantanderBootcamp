@@ -35,7 +35,7 @@
       <td>
         <app-star [rating]="course.rating"></app-star>
       </td>
-      <td>{{ course.releaseDate}}</td>
+      <td>{{ course.releaseDate | date: "dd/MM/yyyy"}}</td>
       <th></th>
       <th></th>
     </tr>
