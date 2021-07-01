@@ -1,14 +1,16 @@
 <H2>Course List</H2>
 
-<div class="form-group row">
-  <label for="col-sm-2 col-form-label w-100">
-    Filter By:
-  </label>
-
-  <div class="col-sm-1">
-    <input [(ngModel)]="filter" class="form-control">
+<div class="form-group row mt-4 mb-4">
+  <div class="col-lg-2">
+    <label for="col-sm-2 col-form-label">
+      Filter By:
+    </label>
   </div>
-
+  <div class="col-lg-10">
+    <div class="">
+      <input [(ngModel)]="filter" class="form-control custom-form">
+    </div>
+  </div>
 </div>
 
 <table class="table table-striped">
