@@ -21,8 +21,7 @@
       <th>Duration</th>
       <th>Rating</th>
       <th>Release Date</th>
-      <th>Edit</th>
-      <th>Delete</th>
+      <th>Option</th>
     </tr>
   </thead>
   <tbody>
@@ -36,8 +35,9 @@
         <app-star [rating]="course.rating"></app-star>
       </td>
       <td>{{ course.releaseDate | date: "dd/MM/yyyy"}}</td>
-      <th></th>
-      <th></th>
+      <th>
+        <a [routerLink]="['/courses/info', course.id]" class="btn btn-primary">Edit</a>
+      </th>
     </tr>
   </tbody>
 
